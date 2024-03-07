@@ -1,0 +1,28 @@
+
+h1 {
+    text-align: center;;
+}
+
+body {
+    background-color: #778899;
+    font-family: 'Oswald';
+}
+
+form {
+    background-color: white; 
+    margin: 0 auto; 
+    width: fit-content; 
+    padding: 20px;
+}
+  
+.submit {
+    background-color: green;
+    color: white;
+    font-family: 'Oswald';
+}
+
+.reset {
+    background-color: red;
+    color: white;
+    font-family: 'Oswald';
+}
